@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sjcj.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>60911F08377DBDDFCE3910F0B6F880309D842704</string>
+				<key>dateExpires</key>
+				<string>2021/6/21</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>N2GGU49FK5.com.ubim.newsjcj</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>N2GGU49FK5</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>N2GGU49FK5.com.ubim.newsjcj</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>sjcj.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4632111f-e03f-4313-aac7-d75c4597a929</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ubim.newsjcj</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>N2GGU49FK5</string>
+				<key>name</key>
+				<string>Guangzhou uBIM Construction Consulting Co. Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
