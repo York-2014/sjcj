@@ -3,7 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>compileBitcode</key>
-	<true/>
+	<false/>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/York-2014/sjcj/blob/master/sjcj.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://raw.githubusercontent.com/York-2014/sjcj/master/logo.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://raw.githubusercontent.com/York-2014/sjcj/master/logo.png</string>
+	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>signingStyle</key>
