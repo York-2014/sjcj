@@ -23,19 +23,19 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/York-2014/sjcj/master/icon-57.png</string>
+					<string>https://raw.githubusercontent.com/York-2014/sjcj/master/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ubim.newsjcj</string>
+				<string>com.u-bim.sjcj</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>uBIM数据采集</string>
+				<string>sjcj</string>
 			</dict>
 		</dict>
 	</array>
