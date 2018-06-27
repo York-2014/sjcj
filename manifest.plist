@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/York-2014/sjcj/master/icon-512.png</string>
+					<string>https://raw.githubusercontent.com/York-2014/sjcj/master/icon-57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>移动数据采集</string>
+				<string>uBIM数据采集</string>
 			</dict>
 		</dict>
 	</array>
