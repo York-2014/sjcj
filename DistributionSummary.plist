@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>9CE105FB81970A62896DD521A64DDD084F2AAA5E</string>
+				<string>2D45FEAACA5804596886F8377D106520BA465AEF</string>
 				<key>dateExpires</key>
-				<string>2021/6/26</string>
+				<string>2022/9/3</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>851ada65-d450-4c9b-95cf-f277310e9e66</string>
+				<string>49740d5e-ea7b-4ffd-a9f4-4d940d897707</string>
 				<key>name</key>
-				<string>ydsjcj</string>
+				<string>iOS Team Inhouse Provisioning Profile: com.u-bim.sjcj</string>
 			</dict>
 			<key>team</key>
 			<dict>

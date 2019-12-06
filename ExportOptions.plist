@@ -4,10 +4,12 @@
 <dict>
 	<key>compileBitcode</key>
 	<true/>
+	<key>destination</key>
+	<string>export</string>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/York-2014/sjcj/blob/master/sjcj.ipa</string>
+		<string>https://github.com/York-2014/sjcj/raw/master/sjcj.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/York-2014/sjcj/master/icon-57.png</string>
 		<key>fullSizeImageURL</key>
@@ -15,15 +17,8 @@
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.u-bim.sjcj</key>
-		<string>ydsjcj</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
