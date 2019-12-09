@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/York-2014/sjcj/raw/master/sjcj.ipa</string>
+		<string>https://github.com/York-2014/sjcj/raw/master/sjcj_bj.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/York-2014/sjcj/master/icon-57.png</string>
 		<key>fullSizeImageURL</key>
